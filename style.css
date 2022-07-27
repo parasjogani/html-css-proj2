@@ -1,0 +1,79 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Red Rose", cursive;
+}
+
+
+.container {
+
+  background: linear-gradient(#000000AA, #000000AA),url(./assets/pexels-maxyne-barcel-10402282\ 1.png);
+  background-size: cover;
+  height: 150vh;
+  
+}
+
+.navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 20vh;
+  align-items: center;
+  margin: 0 75px 50px;
+  
+}
+
+nav .list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style-type: none;
+  font-size: 18px;
+  font-weight: 500;
+  color: #f1c638;
+}
+
+nav .list-item {
+  padding: 0 25px;
+}
+
+nav .button-small {
+  display: flex;
+  align-items: center;
+  padding: 15px 45px;
+  background-color: #f53e3e;
+  border: none;
+  color: #ffffff;
+  font-size: 20px;
+}
+
+.hero {
+  text-align: center;
+}
+
+.hero-heading {
+  font-size: 132px;
+  color: #f1c638;
+  line-height: 124px;
+  margin: 114px 102px 74px 102px;
+
+}
+
+.button-large {
+  padding: 15px 45px;
+  background-color: #f53e3e;
+  border: none;
+  color: #ffffff;
+  font-size: 20px;
+}
+
+.bottom {
+  position: absolute;
+  left: 83%;
+}
+
+.bottom img {
+  width: 148px;
+  margin-top: 76px;
+}

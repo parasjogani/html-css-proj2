@@ -1,4 +1,4 @@
-# Project 1
+# Project 2
 Hello, my name is paras jogani and I create a template using HTML and CSS.
 
 I learn lot of in this second project of my javascript bootcamp.
